@@ -15,6 +15,12 @@ import java.util.List;
 public class BukuDaoImp1 implements BukuDao{
     List<Buku> data = new ArrayList<>();
     
+    public BukuDaoImp1(){
+        data.add(new Buku("B001", "Zakki", "Rifki", "Rifki"));
+        data.add(new Buku("B002", "Andre", "Rifki", "Rifki"));
+        data.add(new Buku("B003", "Fajri", "Rifki", "Rifki"));
+    }
+    
     @Override
     public Buku save(Buku buku){
         data.add(buku);

@@ -14,6 +14,16 @@ public class Anggota {
     private String nama;
     private String alamat;
     
+    public Anggota(){
+    
+    }
+
+    public Anggota(String nobp, String nama, String alamat) {
+        this.nobp = nobp;
+        this.nama = nama;
+        this.alamat = alamat;
+    }
+     
     public String getNobp(){
         return nobp;
     }
