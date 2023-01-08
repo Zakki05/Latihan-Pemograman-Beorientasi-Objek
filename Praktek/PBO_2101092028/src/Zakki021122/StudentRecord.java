@@ -10,6 +10,7 @@ package Zakki021122;
  * @author LENOVO
  */
 public class StudentRecord {
+    int a;
     private String name; 
     private String address; 
     private int age; 

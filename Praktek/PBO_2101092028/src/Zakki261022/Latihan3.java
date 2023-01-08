@@ -17,6 +17,7 @@ public class Latihan3 {
         int[] a = new int[11];
         String[] n = new String[11];
         int terbesar = 0;
+        
         for (int i = 1; i + 1 <= a.length; i++) {
             System.out.println(i); //menampilkan array ke
             n[i] = JOptionPane.showInputDialog("Masukkan angka ke-" + i + " :");
