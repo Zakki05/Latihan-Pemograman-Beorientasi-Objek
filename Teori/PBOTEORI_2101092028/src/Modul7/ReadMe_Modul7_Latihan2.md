@@ -1,0 +1,4 @@
+# Analisa Modul 7 Latihan2.java
+#
+
+Pada modul 7 program latihan2.java menggunakan perintah array. pada program tersebut menggunakan perulangan dalam menginput angka sebanyak 10X. variabel yang dideklarasikan pada program tersebut yaitu i dengan tipe data integer yang berguna sebagai index dalam array, max dengan tipe data integer, dan angka tipe data integer menggunakan perintah array. lalu kita dapat menginputkan nilai dalam variabel angka menggunakan bufferedreader menggunakan perulangan for. dalam mencari nilai maks, dapat diproses menggunakan perulangan for ke nilai yang sudah diinputkan sehingga dapat mendapatkan nilai tertinggi.
