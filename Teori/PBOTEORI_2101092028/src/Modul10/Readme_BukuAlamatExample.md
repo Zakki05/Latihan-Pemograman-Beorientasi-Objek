@@ -1,0 +1,3 @@
+# Modul 10 BukuAlamatExample.java
+#
+Pada program BukuAlamatExample.java merupakan main class untuk memproses class BukuAlamat.java sebelumnya. Pada class ini kita akan membuat class BukuAlamat yang dapat menampung 100 data. Lalu pada class main ini kita akan bisa untuk mengentri data, menghapus data, menampilkan data, dan update data. Untuk membuat 4 menu yang disebutkan tadi, kita akan menggunakan statement swicth case untuk menjalankannya
